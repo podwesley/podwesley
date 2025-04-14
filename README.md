@@ -1,8 +1,6 @@
 
 ##### Olá sou o Wesley
 ##
-- 🔭 Atualmente estou trabalhando com testes automatizados, usando java. 
-- 🌱 Atualmente estou aprendendo desenvolvimento web e desktop com java.
 - 📫 Como entrar em contato comigo: podwesley@gmail.com
 
 #### Liguagens e outros
