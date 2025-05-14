@@ -5,6 +5,8 @@
 
 #### Liguagens e outros
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+<img src="https://ih1.redbubble.net/image.5544248571.3122/st,small,507x507-pad,600x600,f8f8f8.jpg"  width="40" height="40"/>
+
 
 
 
