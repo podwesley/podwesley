@@ -5,9 +5,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM  ::  QA ENGINEER  //  TEST AUTOMATION SPECIALIST                ║
-║  STATUS  ::  ONLINE  ████████████████████  100%                         ║
-║  BUILD   ::  PASSING  |  COVERAGE: HIGH  |  ENV: PRODUCTION             ║
+║  SYSTEM  ::  QA ENGINEER  //  TEST AUTOMATION SPECIALIST                 ║
+║  STATUS  ::  ONLINE  ████████████████████  100%                          ║
+║  BUILD   ::  PASSING  |  COVERAGE: HIGH  |  ENV: PRODUCTION              ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 </div>
